@@ -1,0 +1,4 @@
+https://lenta.ru/rss
+https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+https://www.rbc.ru/static/rss/news.rss
+https://meduza.io/rss/all
